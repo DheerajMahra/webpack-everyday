@@ -1,3 +1,3 @@
 import add from "./add";
 
-alert(add(2, 2));
+alert(add(2, 4));
