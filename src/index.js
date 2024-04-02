@@ -1,3 +1,3 @@
-import add from './math';
+const add = require('./math');
 
 console.log(add(2, 4));
